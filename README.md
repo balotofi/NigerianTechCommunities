@@ -1,5 +1,5 @@
 # Nigerian Tech Communities
-A list of Tech Community in Nigeria. Feel free to add any in your area and create a pull request so we can give awareness of these communities to those who need it and and looking for it.
+A list of Tech Community in Nigeria. Feel free to add any in your area and create a pull request so we can give awareness of these communities to those who need it and and looking for it. If you don't have a community to add but still want to contribute, there are quite a few typos in here so you can start with that.
 
 
 [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
