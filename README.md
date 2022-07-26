@@ -17,9 +17,7 @@ A list of Tech Community in Nigeria. Feel free to add any in your area and creat
 
 ANST - The Association of Nigeria Software Testers (ANST) is a nonprofit organisation that is dedicated to building a robust product and software testing community. Join the community.
 
-[AI Saturdays](https://www.meetup.com/AI6-Lagos/) - AI Saturdays (AKA AI6) is a global community aimed making artificial intelligence education accessible to anyone. As such, it is open to both developers and tech enthusiasts who want to "kickass in AI".
-
-Tejumade Afonja and Azeez Oluwafemi organized and first 16-week cycle of AI6 in Lagos in 2018. And since then, AI Saturdays Lagos has birthed chapters in Abuja, Abeokuta and Ibadan. Join the community to be a part of the next cohort.
+[AI Saturdays](https://www.meetup.com/AI6-Lagos/) - AI Saturdays (AKA AI6) is a global community aimed making artificial intelligence education accessible to anyone. As such, it is open to both developers and tech enthusiasts who want to "kickass in AI". Tejumade Afonja and Azeez Oluwafemi organized and first 16-week cycle of AI6 in Lagos in 2018. And since then, AI Saturdays Lagos has birthed chapters in Abuja, Abeokuta and Ibadan. Join the community to be a part of the next cohort.
 
 Angular Nigeria
 Angular Nigeria is open to anyone interested in the Angular framework, "javascript frontend engineering and any topic in-between". It is managed by Kelechi Oti, Senior Software Engineer at Terragon Group. [Join Angular Nigeria WhatsApp group](https://chat.whatsapp.com/IIgJRLKUuRvD9M7xI5MCbp).
