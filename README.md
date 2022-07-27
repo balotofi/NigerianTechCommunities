@@ -44,14 +44,15 @@ Among its organising team are members of Kotlin User Group, namely [Shola "Slick
 
 [Dribbble Meetups: Lagos Meet](https://dribbble.com/places/nigeria/meetups) - Dribbble Meetups are independently-organized events that bring togethers designers for networking and knowledge sharing. Like [TEDx](https://medium.com/@danielyanda/my-first-tedxlagos-experience-spring-f812a1e43d8e), different Dribbble Meetups are held in Nigeria, but the most popular is Lagos Meet. [The 2018 Lagos Dribbble Meet was a huge success](http://farabaleweekly.com/2018/04/17/lagos-dribbble-meet-naija-freelance-designers-are-really-really-really-fed-up-with-exposure-clients/).
 
+[Devcareer Africa](https://devcareer.io/) - This is the ultimate community for anyone just starting out their developer career. DevCareer is a Non-Profit organization that is focused on supporting upcoming developers with resources to excel into world class. Underdeveloped African countries are lacking when it comes to adequate resources to dive into Tech. DevCareer is focused on supporting these group of people. You can join the community on [Twitter](https://twitter.com/dev_careers/).
+
 [Devcenter Square](https://www.devcenter.co/) - Devcenter Square is a community of developers and designers that fosters excellence and knowledge sharing, mentoring and collaboration. [Join the Slack community](https://devcenter-square-slack.herokuapp.com/).
 
 DevOps Nigeria
 DevOps is a portmanteau of development and operations. DevOps Nigeria is a community for professional DevOps engineers and developers looking to change their career path. Managed by [Adedayo Akinpelu](https://twitter.com/Haroldsphinx), DevOps Engineer at Quidax, DevOps Nigeria holds meetups every quarter across its chapters in Lagos and Abuja. You can join the community on [Slack](https://devops.ng/) or [Telegram](https://t.me/joinchat/NhvBqVfiezvNHz56k-aBYg).
 
-[Developer Career](https://devcareer.io/) - This is the ultimate community for anyone just starting out their developer career. Developer Career (DevCareer) is a non-profit organisation that support anyone interested in venturing into programming and provide adequate resources to make them a world class developers.
-
 ## <a name="E"> </a>E
+[Enyata](https://enyata.com/academy) - Enyata is a community of developers and designers. The community provides access to training, resources and tools needed for a successful career, business and increased earning power. [Join the community](https://enyata.com/academy/apply).
 
 
 ## <a name="F"> </a>F
