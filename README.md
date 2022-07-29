@@ -7,7 +7,7 @@ A list of Tech communities in Nigeria. Feel free to add any communities from you
 
 ## Example
 
- [Community Name](http://example.com) - Brief description of community......... **Founded by [CommunnityLeader(s) Name](https://twitter.com/username, ----)**
+ [Community Name](http://example.com) - Brief description of community......... **Founded by [Community Leader(s) Name](https://twitter.com/username, ----)**
  
 
 
