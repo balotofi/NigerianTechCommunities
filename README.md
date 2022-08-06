@@ -19,7 +19,7 @@ ANST - The Association of Nigerian Software Testers (ANST) is a nonprofit organi
 
 [AI Saturdays](https://www.meetup.com/AI6-Lagos/) - AI Saturdays a.k.a AI6, is a global community aimed toward making artificial intelligence education accessible to anyone. The community is open to both developers and tech enthusiasts who want to "kick ass in AI". Tejumade Afonja and Azeez Oluwafemi organized the first 16-week cycle of AI6 in Lagos in 2018. Since then, AI Saturdays - Lagos has birthed chapters in Abuja, Abeokuta and Ibadan. Join the community to be a part of the next cohort.
 
-[Angular Nigeria](https://chat.whatsapp.com/IIgJRLKUuRvD9M7xI5MCbp)
+[Angular Nigeria](https://twitter.com/ngnigeria?t=GV1qx7WsnVFvSl6ui-6rfg&s=09)
 Angular Nigeria is open to anyone interested in the Angular framework, "Javascript frontend engineering",  "and any topic in-between". It is managed by Kelechi Oti, Senior Software Engineer at Terragon Group. [Join Angular Nigeria WhatsApp group](https://chat.whatsapp.com/IIgJRLKUuRvD9M7xI5MCbp).
 
 ## <a name="B"> </a>B
