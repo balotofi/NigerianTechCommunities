@@ -58,7 +58,7 @@ DevOps is a portmanteau of development and operations. DevOps Nigeria is a commu
 ## <a name="F"> </a>F
  [ForLoop Africa](http://forloop.africa) - A community of passionate software developers and enthusiasts across Africa. **Founded by [Olalere Ridwan](https://twitter.com/@ridwan_olalere)** You can join forloop Africa [slack](https://upscri.be/70a20d), [become a member](https://forloop.africa/members), subscribe to its [podcast](https://podcast.forloop.africa/subscribe), or plan to attend the next [meetup](https://forloop.africa/meetups) close to you.
  
-[Frontstack](https://frontstack.io) - Frontstack is a community built on the foundation of technological excellence and developer awareness. As its name implies, it’s all about front-end web technologies and their affinities. **Founded by [Ire Aderinokun](https://twitter.com/ireaderinoku) and [Christian Nwamba](https://twitter.com/codebeast)**
+[Frontstack](https://frontstack.io) - Frontstack is a community built on the foundation of technological excellence and developer awareness. As its name implies, it’s all about front-end web technologies and their affinities. **Founded by [Ire Aderinokun](https://twitter.com/ireaderinokun?t=ei19bs0FSSNLY062yoEeeg&s=09) and [Christian Nwamba](https://twitter.com/codebeast)**
  
 [Figma Africa](https://www.meetup.com/figma-africa/) - It is only appropriate that one of the applications used by designers has a community. Figma Africa is a community for professional and nascent designers to connect, network and grow their design skills. Figma Africa Nigeria launched last year, and convened 300 participants. Join the community to improve your design skill.
 
